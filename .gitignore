@@ -1,0 +1,13 @@
+# Ignore all .exe files
+*.exe
+
+# Ignore any folder or file named temp (case-insensitive suggestion)
+temp
+Temp
+TEMP
+**/temp
+**/Temp
+**/TEMP
+
+# Ignore files containing 'temp' in their name anywhere
+*temp*
