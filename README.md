@@ -51,7 +51,7 @@ Practice_Questions/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Data-Structure.git
+git clone https://github.com/abojha/Data-Structure.git
 cd Data-Structure
 ```
 
@@ -103,8 +103,8 @@ g++ All_Data_Structure/1_Arrays/example.cpp -o example
 
 **Abhay Ojha**
 
-* Connect on [LinkedIn](https://www.linkedin.com)
-* GitHub: [github.com/your-username](https://github.com/your-username)
+* Connect on [LinkedIn](https://www.linkedin.com/abhayojha0012)
+* GitHub: [github.com/your-username](https://github.com/abojha)
 
 ---
 
